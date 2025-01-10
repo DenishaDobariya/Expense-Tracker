@@ -17,7 +17,7 @@
 - create .env file
 
         PORT = 5000
-        MONGO_URL = "mongodb://localhost:27017/Expense-Tracker"
+        MONGO_URL = your-mongodb-url
   
 - start the server
 
